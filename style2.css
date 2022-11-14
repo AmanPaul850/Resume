@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:white;
+}
+.red,.blue,.black{
+    background-color:yellow;
+    text-align: left;
+    color: rgb(0, 0, 0);
+}
+.red{
+    font: size 112%;;
+    background-color: aqua;
+    font-style: italic;
+    text-decoration: underline;
+}
+.blue{
+    text-decoration: underline;
+    font-size: 200%;
+    font-style: italic;
+    background-color: blueviolet;
+    color: white;
+}
+.black{
+    font-style: oblique;
+    font-size: 112%;
+}
+.fotter{
+    color: black;
+    text-align: center;
+    font-style: oblique;
+}
+img{
+    align-items: center;
+    font-size: smaller;
+    height: 18mm;
+    width: 2cm;
+}
